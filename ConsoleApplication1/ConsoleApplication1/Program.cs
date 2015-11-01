@@ -15,8 +15,8 @@ namespace ConsoleApplication1
 
     public class TestA
     {
-        public int X { get; set; } = 0;
+        public int X { get; set; } = 2;
 
-        public int Y { get; set; } = 0;
+        public int Y { get; set; } = 2;
     }
 }
